@@ -2,7 +2,11 @@ i m kader
 i m 25 years old
 my father name is moono miah
 
+<<<<<<< HEAD
 
 my home district cumilla
 my village name is biharmondal
+=======
+my home district cumilla
+>>>>>>> 1b3cc995e70f488a3cafabf3bf6e06e2393ecc15
 
